@@ -8,6 +8,5 @@
 - Project 1 - Use multiple machine learning algorithms, including gradient boosting tools like RandomForest and XGBoost, to increase the accuracy of a predictive model
   > Tools Used: RStudio  
   R File:  
-  [SNW_Final.R](https://github.com/jzhu808/ISOM-673-Social-Network-Analytics/blob/master/SNW_Final.R)  
-  [SNW_Final.R](https://github.com/jzhu808/ISOM-673-Social-Network-Analytics/blob/master/SNW_Final.R)  
-  Data Used: [Open Flight Dataset](https://openflights.org/data.html)  
+  [Project_RandomForest.R](https://github.com/jzhu808/ISOM-674-Machine-Learning-I/blob/master/Project_RandomForest.R)  
+  [Project_XGBoost.R](https://github.com/jzhu808/ISOM-674-Machine-Learning-I/blob/master/Project_XGBoost.R)  
